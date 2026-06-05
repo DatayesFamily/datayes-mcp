@@ -51,7 +51,7 @@ Datayes MCP，将通联数据沉淀多年的权威金融数据与专业分析能
 |datayes\-fund\-analytics\-mcp|获取基金风险收益、回撤指标、股债风格特征、持仓归因、Brinson 归因、行业与择时选股能力等风险绩效分析数据。|
 
 ## 立即开启您的金融AI智能化转型
-
+Datayes MCP，是连接前沿 AI 与深厚金融数据的可靠桥梁。让我们帮助您，将数据资产转化为驱动业务增长的智能生产力。
 <div align="center">
 <p><strong>扫描二维码，申请试用或预约路演</strong></p>
 <img width="321" height="321" alt="二维码" src="https://github.com/user-attachments/assets/5abd8aba-bacc-4295-a50c-192d812bedd7" />
