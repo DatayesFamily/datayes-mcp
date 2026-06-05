@@ -49,3 +49,7 @@ Datayes MCP，将通联数据沉淀多年的权威金融数据与专业分析能
 |datayes\-stock\-announcements\-mcp|整合沪深京上市公司公告信息，支持自然语言语义问答，可根据用户提问，智能检索、快速提取公告中财报、重大事项、股东大会决议等关键信息。|
 |datayes\-fund\-announcements\-mcp|获取基金不同时期的公告信息，包括公告发布时间、公告标题、公告 txt 文本等。|
 |datayes\-fund\-analytics\-mcp|获取基金风险收益、回撤指标、股债风格特征、持仓归因、Brinson 归因、行业与择时选股能力等风险绩效分析数据。|
+
+## 立即开启您的金额AI智能化转型
+
+**点击开始预约试用**：https://mall.datayes.com/datayesMCP
