@@ -53,7 +53,7 @@ Datayes MCP，将通联数据沉淀多年的权威金融数据与专业分析能
 ## 立即开启您的金融AI智能化转型
 
 <div align="center">
-**扫描二维码，申请试用或预约路演**<br>
+<p>扫描二维码，申请试用或预约路演</p><br>
 <img width="321" height="321" alt="二维码" src="https://github.com/user-attachments/assets/5abd8aba-bacc-4295-a50c-192d812bedd7" />
 </div>
 
